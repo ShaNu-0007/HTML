@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Email Account</title>
+    <body> 
+         _{background-image:url('background'); 
+      background-size:cover;
+      background-repeat:
+      no-repeat;
+      background-attachment:fixed;
+    } 
+    .contentg { 
+        background:rgba(225,255,255,0.8);
+        padding:20px;
+        margin:40px auto;
+        width;60%;
+        border-radius;12px;
+    }
+</style>
+</head>
+<body>
+    <div class="content">
+    <h1>Shahil Ahamad </h1>
+        <p><strong>Email:</strong> mdshahilahmad884@gmail.com</p>
+        <p> <strong>Phone:</strong> +91 9565963595</p>
+        <p><strong>Address:</strong> Babhanauli,Seorahi,Kushinagar,274407</p>
+        <h2>Career Objective</h2>
+        <p> Web Developer</p>
+        <h2>Education</h2>
+        <ul>
+            <li>High School - Sapahi Tadawa,Kushinagar,2021</li>
+            <li>Intermediate - R J Y Collage,2023</li>
+            <li>BCA - Integral University,2024-2025</li>
+        </ul>
+        <h3>Skills</h3>
+        <ul>
+            <li> TECH </li>
+            <li> Repairing </li>
+
+        </ul>
+        <h3>Languages</h3>
+        <ul>
+            <li> C </li>
+             <li> C++ </li>
+              <li> HTML </li>
+               <li> CSS </li>
+        </ul>
+        </div>
+    </body>
+</head>
+</body>
+</html>
