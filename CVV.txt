@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<!-- saved from url=(0051)file:///C:/Users/mdsha/Desktop/HTML/Untitled-1.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"> 
+     
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Your Name - Shahil Ahamad</title> 
+    <style> 
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 0; 
+            padding: 0; 
+ background-color: #f4f4f4; 
+            color: #333; 
+        } 
+ 
+        .container { 
+            width: 80%; 
+            margin: 0 auto; 
+            background-color: #fff; 
+            padding: 20px; 
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+        } 
+ 
+        h1 { 
+            text-align: center; 
+            color: #007BFF; 
+        } 
+ 
+        table { 
+            width: 100%; 
+            margin-top: 20px; 
+            border-collapse: collapse; 
+        } 
+ 
+        td, 
+        th { 
+            padding: 10px; 
+            border: 1px solid #ddd; 
+        } 
+ 
+        th { 
+            background-color: #007BFF; 
+            color: white; 
+            text-align: left; 
+        } 
+ 
+        .section-title { 
+            background-color: #007BFF; 
+            color: white; 
+            padding: 10px; 
+            font-size: 18px; 
+        } 
+    </style> 
+</head> 
+ 
+<body> 
+ 
+    <div class="container"> 
+        <h1>Shahil Ahamad</h1> 
+        <table> 
+            <tbody><tr> 
+                <th colspan="2">Contact Information</th>
+  </tr> 
+            <tr> 
+                <td>Email:</td> 
+                <td>shahilbca@student.iul.ac.in</td> 
+            </tr> 
+            <tr> 
+                <td>Phone:</td> 
+                <td>+91-9565963595</td> 
+            </tr> 
+            <tr> 
+                <td>Website:</td> 
+                <td> https://github.com/ShaNu-0007</td> 
+            </tr> 
+        </tbody></table> 
+ 
+        <div class="section-title">Profile</div> 
+        <p>Experienced and highly skilled professional with expertise in [WEB DEVELOPER]. Passionate 
+about delivering 
+            exceptional results and constantly improving. Able to manage multiple projects 
+efficiently and meet 
+            deadlines. Adept at collaborating with cross-functional teams to drive success.</p> 
+ 
+        <div class="section-title">Experience</div> 
+        <table> 
+            <tbody><tr> 
+                <th>Job Title</th> 
+                <th>Company</th> 
+                <th>Dates</th> 
+                <th>Responsibilities</th> 
+            </tr> 
+            <tr> 
+                <td> WEB Developer (Academic Project)</td> 
+                <td> TCS </td> 
+                <td>Jan 2024 - May 2025</td> 
+                <td> 
+                    <ul> 
+                        <li>Developed an Automated Student Attendance Monitoring System using Python & MySQL Designed frontend Ul with HTML, CSS, JS Automated manual attendance tracking</li>  
+                    </ul> 
+                </td> 
+            </tr> 
+            <tr> 
+                <td> SIH </td> 
+                <td> Govt. of India Initiative</td> 
+                <td> Aug 2025 - till date </td> 
+                <td> 
+                    <ul> 
+                        <li>Collaborated in a 6-member team to design a web application Implemented backend APIs in Node.js & MongoDB
+Presented solution to judges and received positive feedback</li>  
+                    </ul>
+  </td> 
+            </tr> 
+        </tbody></table> 
+ 
+        <div class="section-title">Education</div> 
+        <table> 
+            <tbody><tr> 
+                <th>Degree</th> 
+                <th>University</th> 
+                <th>Year</th> 
+            </tr> 
+            <tr> 
+                <td> BCA</td> 
+                <td> INTEGRAL UNIVERSITY </td> 
+                <td> 2026 </td> 
+            </tr> 
+        </tbody></table> 
+ 
+        <div class="section-title">Skills</div> 
+        <table> 
+            <tbody><tr> 
+                <td> WEB DEVELOPER </td> 
+                <td> TECH </td> 
+                <td> REPAIRING </td> 
+            </tr> 
+            <tr> 
+                <td> MOBILE </td> 
+                <td> TECH </td> 
+                <td> REPAIRING </td> 
+            </tr> 
+        </tbody></table> 
+ 
+        <div class="section-title">Certifications</div> 
+        <table> 
+            <tbody><tr> 
+                <th>Certification</th> 
+                <th>Issuer</th> 
+                <th>Year</th> 
+            </tr> 
+            <tr> 
+                <td> ADCA </td> 
+                <td>SAI INSTITUTE OF COMP</td> 
+                <td> 2024 </td> 
+            </tr> 
+        </tbody></table> 
+ 
+        <div class="section-title">Languages</div> 
+        <table> 
+            <tbody><tr> 
+                <th>Language</th> 
+                <th>Proficiency Level</th> 
+</tr> 
+            <tr> 
+                <td> C </td> 
+                <td>Intermediate</td> 
+            </tr> 
+            <tr> 
+                <td> HTML </td> 
+                <td>Advanced</td> 
+            </tr> 
+        </tbody></table> 
+ 
+        <div class="section-title">References</div> 
+        <p>Available upon request.</p> 
+    </div> 
+ 
+ 
+ 
+</body></html>
